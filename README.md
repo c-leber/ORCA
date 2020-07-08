@@ -1,5 +1,5 @@
 # ORCA
-Code associated with ORCA manuscript: XX
+Code associated with ORCA manuscript: *manuscript in prep*
 
 The ORCA pipeline (flexible MS1 feature detection and multivariate analyses) and supporting documentation can be found in the "ORCA.ipynb" Jupyter Notebook file. The ORCA MS2 Auxiliary pipeline (tools for digging through mountains of MS2 data, and identifying patterns) and supporting documentation can be found in the "ORCA_MS2aux.ipynb" Jupyter Notebook file . The mzXML and mzML files analyzed in the paper, as well as other associated files can be found in the data directory.
 
