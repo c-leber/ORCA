@@ -1,5 +1,7 @@
 # ORCA
-Code associated with ORCA manuscript: *manuscript in prep*
+Code associated with ORCA manuscript: Leber CA et al (2020) Applying a Chemogeographic Strategy for Natural Product Discovery from the Marine Cyanobacterium Moorena bouillonii. Mar Drugs 18:515. https://doi.org/10.3390/md18100515
+
+NOTE: If you are looking for code associated with **Chapter 4: Moorena bouillonii Chemogeography: Distributional Patterns of Compounds and Compound Families at Multiple Spatial Scales**, please see branch **Mb_MS_expansion**.
 
 The ORCA pipeline (flexible MS1 feature detection and multivariate analyses) and supporting documentation can be found in the "ORCA.ipynb" Jupyter Notebook file. The ORCA MS2 Auxiliary pipeline (tools for digging through mountains of MS2 data, and identifying patterns) and supporting documentation can be found in the "ORCA_MS2aux.ipynb" Jupyter Notebook file . The mzXML and mzML files analyzed in the paper, as well as other associated files can be found in the data directory.
 
