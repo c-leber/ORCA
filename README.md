@@ -24,3 +24,5 @@ Other useful tools to check out:
 - Jupyter Notebook (https://jupyter.org/)
 - MSconvert, for converting proprietary mass spec files to open source formats (e.g. mzXML, mzML) (http://proteowizard.sourceforge.net/tools.shtml)
 - GNPS, for performing molecular networking with MS2 data (https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp)
+
+***Please report issues if you run into any trouble! -Chris***
