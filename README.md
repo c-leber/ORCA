@@ -7,7 +7,7 @@ ORCA stands for Objective Relational Comparative Analyses, as it was developed t
 
 ![ORCA diagram](https://github.com/c-leber/ORCA/blob/master/ORCA_diagram.png)
 
-Figure 1 from Leber CA et al (2020) **Applying a Chemogeographic Strategy for Natural Product Discovery from the Marine Cyanobacterium *Moorena bouillonii***. Mar Drugs 18:515. https://doi.org/10.3390/md18100515
+Figure 1. from Leber CA et al (2020) **Applying a Chemogeographic Strategy for Natural Product Discovery from the Marine Cyanobacterium *Moorena bouillonii***. Mar Drugs 18:515. https://doi.org/10.3390/md18100515
 
 
 Written in Python 3 (3.7.5)
