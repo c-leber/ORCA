@@ -5,6 +5,10 @@ Code in this branch is associated with **Chapter 4: *Moorena bouillonii* Chemoge
 
 ORCA stands for Objective Relational Comparative Analyses, as it was developed to study how different samples represented by multidimensional vectors (such as an MS1 peak table from LC-MS or LC-MS/MS chromatograms) are related to each other. The ORCA pipeline provides flexible MS1 feature detection and multivariate analyses, all in modular, interactive, and extendable format. Additional supporting documentation alongside the ORCA code base can be found in the "ORCA.ipynb" Jupyter Notebook file. The ORCA MS2 Auxiliary pipeline (tools for digging through mountains of MS2 data, and identifying patterns) and supporting documentation can be found in the "ORCA_MS2aux.ipynb" Jupyter Notebook file . The mzXML and mzML files analyzed in the above cited paper, as well as other associated files, can be found in the data directory.
 
+![ORCA diagram](https://github.com/c-leber/ORCA/blob/master/ORCA_diagram.png)
+
+Figure 1. from Leber CA et al (2020) **Applying a Chemogeographic Strategy for Natural Product Discovery from the Marine Cyanobacterium *Moorena bouillonii***. Mar Drugs 18:515. https://doi.org/10.3390/md18100515
+
 Written in Python 3 (3.7.5)
 
 Python Dependencies for ORCA and ORCA MS2 Auxilary (version used for development*):
